@@ -17,11 +17,3 @@
 - 📫 How to reach me **raazkk9504@gmail.com**
 
 - ⚡ Fun fact **I think I'm a open book person.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://instagram.com/itsraj8572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzchaturvedi" height="30" width="40" /></a>
-</p>
-
-
